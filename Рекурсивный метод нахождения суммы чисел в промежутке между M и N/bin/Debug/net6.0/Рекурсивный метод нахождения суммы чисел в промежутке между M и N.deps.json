@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Рекурсивный метод нахождения суммы чисел в промежутке между M и N/1.0.0": {
+        "runtime": {
+          "Рекурсивный метод нахождения суммы чисел в промежутке между M и N.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Рекурсивный метод нахождения суммы чисел в промежутке между M и N/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
